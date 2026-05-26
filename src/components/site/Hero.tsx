@@ -1,4 +1,4 @@
-import { ArrowRight, MessageCircle, MouseIcon } from "lucide-react";
+import { ArrowRight, MessageCircle, Mouse } from "lucide-react";
 import heroImg from "@/assets/hero-composition.jpg";
 import { waLink } from "@/lib/site";
 
@@ -68,7 +68,7 @@ export function Hero() {
 
       <div className="mt-20 flex justify-center text-muted-foreground/70">
         <div className="flex flex-col items-center gap-2">
-          <MouseIcon size={18} />
+          <Mouse size={18} />
           <div className="h-6 w-px bg-gradient-to-b from-primary/60 to-transparent animate-scroll-hint" />
         </div>
       </div>
