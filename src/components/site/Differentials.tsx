@@ -1,4 +1,4 @@
-import { Target, Smartphone, Layers, Zap, MessageSquare, TrendingUp } from "lucide-react";
+import { Target, Smartphone, Layers, Zap, MessageSquare, TrendingUp, Wrench } from "lucide-react";
 
 const items = [
   { i: Target, t: "Orientado a resultado", d: "Cada decisão de desenvolvimento conecta-se a um objetivo de negócio." },
@@ -6,6 +6,7 @@ const items = [
   { i: Layers, t: "Gestão organizada", d: "Roadmap claro, documentação e visibilidade total do projeto." },
   { i: Zap, t: "Performance e velocidade", d: "Otimização real de carregamento, SEO técnico e Core Web Vitals." },
   { i: MessageSquare, t: "Comunicação clara", d: "Atualizações constantes e linguagem direta — sem ruído técnico." },
+  { i: Wrench, t: "Ferramentas inteligentes", d: "Usamos tecnologias modernas e automação para agilizar prazos sem perder qualidade." },
   { i: TrendingUp, t: "Escalabilidade", d: "Arquitetura preparada para crescer junto com o seu produto." },
 ];
 
