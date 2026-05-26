@@ -60,6 +60,7 @@ function Index() {
         <About />
         <Portfolio />
         <Process />
+        <TechStack />
         <Differentials />
         <Testimonials />
         <Faq />
